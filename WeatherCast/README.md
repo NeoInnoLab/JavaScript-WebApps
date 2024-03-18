@@ -14,15 +14,37 @@ Built with HTML, CSS, and JavaScript, it offers a clean and intuitive interface 
 ## Usage
 - Simply enter the name of the city for which you want the weather forecast in the search box and press enter.
 - The webapp will fetch and display the current weather details including temperature, humidity, wind speed, weather conditions (like clear, clouds, rain), and the city's name.
-- If the entered city name is not found, the webapp will display an error message prompting you to try searching again.
+- If the entered city name is not found, the webapp will display an error message.
 
 ## Demo
 
-![Home Page](/path/to/homepage_screenshot.png)
-*Home page showing the search functionality.*
+```<p align="center">
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Search.png" alt="Home Page" width="400"/>
+  <br>
+  <em>Home page showing the search functionality.</em>
+</p>
+```
 
-![Weather Result](/path/to/weatherresult_screenshot.png)
-*Displaying weather details after searching for a city.*
+```<p align="center">
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Searching.png" alt="Home Page" width="400"/>
+  <br>
+  <em>Enter the name of the city.</em>
+</p>
+```
+
+```<p align="center">
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/SearchReasult.png" alt="Home Page" width="400"/>
+  <br>
+  <em>Displaying weather details after searching for a city.</em>
+</p>
+```
+
+```<p align="center">
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/NotFound.png" alt="Home Page" width="400"/>
+  <br>
+  <em>While the entered city name is not found, the webapp will display an error message.</em>
+</p>
+```
 
 
 
