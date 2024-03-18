@@ -25,14 +25,14 @@ Built with HTML, CSS, and JavaScript, it offers a clean and intuitive interface 
 </p>
 
 <p align="center">
-  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Searching.png" alt="Home Page" width="400"/>
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Seraching.png" alt="Home Page" width="400"/>
   <br>
   <em>Enter the name of the city.</em>
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/SearchReasult.png" alt="Home Page" width="400"/>
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/SearchResult.png" alt="Home Page" width="400"/>
   <br>
   <em>Displaying weather details after searching for a city.</em>
 </p>
