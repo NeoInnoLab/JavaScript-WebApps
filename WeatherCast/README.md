@@ -18,34 +18,31 @@ Built with HTML, CSS, and JavaScript, it offers a clean and intuitive interface 
 
 ## Demo
 
-```<p align="center">
+<p align="center">
   <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Search.png" alt="Home Page" width="400"/>
   <br>
   <em>Home page showing the search functionality.</em>
 </p>
-```
 
-```<p align="center">
+<p align="center">
   <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Searching.png" alt="Home Page" width="400"/>
   <br>
   <em>Enter the name of the city.</em>
 </p>
-```
 
-```<p align="center">
+
+<p align="center">
   <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/SearchReasult.png" alt="Home Page" width="400"/>
   <br>
   <em>Displaying weather details after searching for a city.</em>
 </p>
-```
 
-```<p align="center">
+
+<p align="center">
   <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/NotFound.png" alt="Home Page" width="400"/>
   <br>
   <em>While the entered city name is not found, the webapp will display an error message.</em>
 </p>
-```
-
 
 
 ## Code Examples
