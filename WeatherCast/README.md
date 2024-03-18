@@ -1,4 +1,4 @@
-# WeatherCast WebApp - [link](https://neoinnolab.github.io/Neo-Mini-WebApp/WeatherCast/index.html)
+# WeatherCast WebApp - [link](https://neoinnolab.github.io/JavaScript-WebApps/WeatherCast/index.html)
 
 ## Overview
 The webApp is user-friendly application designed to deliver real-time weather forecasts for any location around the world. 
