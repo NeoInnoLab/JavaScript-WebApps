@@ -21,27 +21,27 @@ Built with HTML, CSS, and JavaScript, it offers a clean and intuitive interface 
 <p align="center">
   <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Search.png" alt="Home Page" width="400"/>
   <br>
-  <em>Home page showing the search functionality.</em>
+  <em>Fig 1. Home page showing the search functionality.</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Seraching.png" alt="Home Page" width="400"/>
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/Seraching.png" alt="Home Page" width="400" style="margin-top: 20px;" />
   <br>
-  <em>Enter the name of the city.</em>
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/SearchResult.png" alt="Home Page" width="400"/>
-  <br>
-  <em>Displaying weather details after searching for a city.</em>
+  <em>Fig 2. Enter the name of the city.</em>
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/NotFound.png" alt="Home Page" width="400"/>
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/SearchResult.png" alt="Home Page" width="400" style="margin-top: 20px;"/>
   <br>
-  <em>While the entered city name is not found, the webapp will display an error message.</em>
+  <em>Fig 3. Displaying weather details after searching for a city.</em>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/NeoInnoLab/Neo-Mini-WebApp/blob/main/WeatherCast/NotFound.png" alt="Home Page" width="400" style="margin-top: 20px;"/>
+  <br>
+  <em>Fig 4. While the entered city name is not found, the webapp will display an error message.</em>
 </p>
 
 
