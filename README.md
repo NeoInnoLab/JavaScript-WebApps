@@ -1,4 +1,4 @@
-# Neo's Mini WebApp Projects
+# Neo's JavaScript WebApp Projects
 
 This repository hosts a collection of small web applications developed using HTML, CSS, and JavaScript. 
 Each project showcases different functionalities and concepts, offering a range of interactive experiences. 
